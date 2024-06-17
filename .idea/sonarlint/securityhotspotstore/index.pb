@@ -38,3 +38,5 @@ K
 .github/workflows/maven.yml,c/7/c709f6995f23dae0da365bff70068f8288fa89e0
 M
 nhnacademy-be6-code-quest.pem,1/1/11f2dc4679be12253ad6b27a331bb25fce7270f5
+ƒ
+Ssrc/test/java/com/nhnacademy/book_store_eureka/BookStoreEurekaApplicationTests.java,9/4/94823330be5ca350e0f3cb7607fad371e342398a
