@@ -1,10 +1,4 @@
 
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-s
-Csrc/main/java/com/nhnacademy/test_eureka/config/SecurityConfig.java,6/4/648002cb0ac729252a0fb8e6b6a50b645516d9d7
-s
-Csrc/main/java/com/nhnacademy/test_eureka/TestEurekaApplication.java,2/3/23d39448c878bdee78cc400938c48bed39e43dfd
 ~
 Nsrc/test/java/com/nhnacademy/book_store_eureka/TestEurekaApplicationTests.java,0/d/0d8e02d426d217d38effd2c029cc190e1ebe4f35
 y
