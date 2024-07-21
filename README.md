@@ -10,9 +10,9 @@
 
 ### Architecture
 
-![Eureka Architecture](https://github.com/nhnacademy-be6-code-quest/.github/blob/main/img/client/ClientArchitecture.png)
+![Eureka Architecture](https://github.com/nhnacademy-be6-code-quest/.github/blob/main/img/eureka/EurekaArchitecture.png)
 
 ### Test
 
-![Eureka Test](https://github.com/nhnacademy-be6-code-quest/.github/blob/main/img/client/ClientTest.png)
+![Eureka Test](https://github.com/nhnacademy-be6-code-quest/.github/blob/main/img/eureka/EurekaTest.png)
 
